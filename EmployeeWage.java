@@ -1,4 +1,4 @@
-public class EmployeeWageBuilderUC2 {
+public class EmployeeWage {
   public static void main(String[] args) {
     int IS_PART_TIME = 1;
     int IS_FULL_TIME = 2;
